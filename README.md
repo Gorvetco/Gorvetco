@@ -4,8 +4,12 @@
 - 💞️ I’m looking to collaborate on ... Any thing with anyone who would have the spare time and be willing to show me a thing or to.
 - 📫 How to reach me ... My main Email is: Gorvetco@gmail.com | and my cell is: 519-550-4291. Shoot me a text or something sometime, Im pretty easy to get along with.
 
-<!---  <~~~ I'm not sure what this part is for here lol Im assuming if I had a cool project I'd like to share, this would be the spot Id post it
+<!--- 
 Gorvetco/Gorvetco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ <~~~ I'm not sure what this part is for here lol Im assuming if I had a cool project I'd like to share, this would be the spot Id post it
+
+                          ......
+
 I got nothing right now. Come back in a year, and see where Im at :)
